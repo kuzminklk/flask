@@ -7,3 +7,10 @@ Detached repository for [Flask documentation](https://flask.palletsprojects.com/
 ### Purpose
 
 Part of computer-science study curriculum available in [Notion](https://kuzminklk.notion.site/31154d4de03580d7b5ceca5b187846be)
+
+### Technologies
+
+Development: Visual Studio Code  
+Programming language: Python  
+Formatting: “.editorconfig”, “.vscode/…”, Prettier, Ruff  
+Version Control: Git, GitHub
